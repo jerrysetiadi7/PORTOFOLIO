@@ -10,3 +10,5 @@ Sistem Informasi Pesantren Berbasis Web
 - Manajemen Berita dan Kegiatan  
 - Dashboard Admin (Chart.js)  
 
+## dokumentasi portofolio
+https://github.com/jerrysetiadi7/PORTOFOLIO/blob/2d535685c475a9d325ded2c8999810280efa7dee/PORTOFOLIO_JERRY.pdf
