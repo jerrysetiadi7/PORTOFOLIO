@@ -12,3 +12,7 @@ Sistem Informasi Pesantren Berbasis Web
 
 ## dokumentasi portofolio
 https://github.com/jerrysetiadi7/PORTOFOLIO/blob/2d535685c475a9d325ded2c8999810280efa7dee/PORTOFOLIO_JERRY.pdf
+
+## Portofolio Wordpress 
+Website sekolah SMK Bina Kerja Purwakarta
+https://smkbinakerjapwk.sch.id/
